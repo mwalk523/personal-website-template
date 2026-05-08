@@ -1,3 +1,4 @@
-# Walker_Website
+# Walker\_Website
 
-This is Miles Walker's personal website, a project made in HTML!
+This is Miles Walker's personal website, a project designed in HTML!
+
